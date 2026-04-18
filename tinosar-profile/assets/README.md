@@ -2,7 +2,7 @@
   <img src="assets/kid_logo_en_video_1080.png" width="150" alt="K-Id Logo">
 </p>
 
-# Hi, I'm Celestin 👋
+# Hi, I'm Celestino 👋
 
 ### Economist × Accountant × Builder
 
